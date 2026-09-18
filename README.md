@@ -38,7 +38,7 @@ Forked from https://github.com/EvAnLyOrG/lumo-assistant
 
 bash
 
-`git clone https://github.com/cpelley/lumo-assistant`<br>
+`git clone https://github.com/cpelley/lumo-assistant.git`<br>
 `cd lumo-assistant`<br>
 `npm install`<br>
 `npm run compile`<br>
